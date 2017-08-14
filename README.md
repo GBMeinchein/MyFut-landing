@@ -1,4 +1,4 @@
 
 # Easy Fut-landing
-MyFut landing page
+Easy Fut landing page
 
